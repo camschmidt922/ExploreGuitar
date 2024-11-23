@@ -1,0 +1,3 @@
+11/23:
+  - Need to make changes to MajorScale class, does not account for scales that do not have their own key signature, want to find a solution that isn't just directly spelling out the scales
+  - Major scales also do not build properly when they involve Cb/B# and Fb/E# (Major Keys affected: F#, C#, Gb, Cb)
